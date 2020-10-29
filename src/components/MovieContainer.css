@@ -1,0 +1,19 @@
+.form-cls{
+    display: flex;
+    height: 30px;
+    margin-bottom: 30px;
+}
+
+.input-cls{
+    flex:6;
+    margin-right: 20px;
+}
+
+.btn-cls{
+    flex: 1;
+    font-size: 16px;
+}
+
+.input-cls:focus {
+    outline: none !important;
+}
