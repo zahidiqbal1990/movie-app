@@ -16,3 +16,5 @@ Following things can be improved with more time:
  - Using redux-saga to handle side-effects
  - Using CSS/SCSS modules for better orgnaization of styles
  - Unit test cases using jest/enzyme
+ 
+Test change
